@@ -1,0 +1,17 @@
+.sumform {
+    background-color: aqua;
+    margin: 50px;
+    padding: 50px;
+}
+.heading {
+    size: 30px;
+    font-style: italic;
+}
+
+navbar {
+    position: absolute;
+    padding: 10px;
+    margin-right: auto;
+    margin-left: auto;
+    top: 0;
+}
